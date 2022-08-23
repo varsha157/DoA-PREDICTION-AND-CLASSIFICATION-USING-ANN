@@ -2,6 +2,7 @@
 Development of algorithm to extract frequency domain feature, beta ratio of EEG signals and compare it with BIS values using a NARX Neural Network and obtain the Depth of Anesthesia. 
 
 
+
 **PROJECT DESCRIPTION:**
 
 The electroencephalogram (EEG) can reflect brain activity and contains abundant information of different anesthetic states of the brain. During surgery, general anesthesia is necessary and important to ensure the safety of patients. Overdose anesthesia may make the recovery time longer, while inadequate anesthesia may lead to intraoperative awareness and psychological effects on patients. However, there is not an identical definition of the anesthetic state among anesthesiologists. Objective, non-invasive and reliable monitoring depth of anesthesia (DoA) is still a clinical concern for anesthesiologists. The bi-spectral index (BIS) monitor collects raw EEG data through its sensors and uses an algorithm to analyze and interpret the data. The data displays as a number on the BIS view monitor. BIS values range from 0 to 100. A value of 0 represents the absence of brain activity, and 100 represents the awake state.
