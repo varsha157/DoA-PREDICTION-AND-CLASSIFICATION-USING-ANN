@@ -15,6 +15,7 @@ The proposed solution involves pre-processing of the EEG signal to identify the 
 ![image](https://user-images.githubusercontent.com/111851675/186106845-0ddb13a9-5a28-4f08-aa44-a2af0a41348c.png)
 
 
+
 **PRE-PROCESSING OF EEG DATA**
 
 Step:01. The EEG raw data are imported into MATLAB.
@@ -32,6 +33,7 @@ Step:06. Denoising to remove EMG artifacts using median filter to remove the unw
 Step:07. Plot the processed EEG signal as a function of time.
 
 
+
 **FEATURE EXTRACTION**
 
 Step:01. Obtain and plot the wavelet decomposition (alpha, beta, gamma, theta and delta) of the processed EEG signal.
@@ -43,6 +45,7 @@ Step:03. Calculate beta ratio using the above-mentioned formula.
 Step:04. Plot the beta ratio as a function of time.
 
 
+
 **REGRESSION ANALYSIS USING ANN**
 
 Step:01. Train the neural network using the beta ratio.
@@ -52,6 +55,7 @@ Step:02. Set the target data as the processed signal and reference data as BIS v
 Step:03. Train the algorithm by assigning a particular percentage of data for validation, testing and training.
 
 Step:04. Obtain and plot the regression coefficient, error, time series response.
+
 
 
 **RESULTS**
