@@ -65,21 +65,23 @@ Comparison of raw EEG signal and removal of outliers:
 
 ![image](https://user-images.githubusercontent.com/111851675/186107095-5ce7a595-7ba5-401b-aada-248ab0335a4c.png)
 
-
-![image](https://user-images.githubusercontent.com/111851675/186107185-d4c8f2e4-2f1d-4b96-a9d8-966bb3e0f24b.png)
+EEG signal after filtration and removal of artifacts
 
 
 ![image](https://user-images.githubusercontent.com/111851675/186107285-c1a8921c-4e1e-407f-b17a-60f2c456f310.png)
 
-
-![image](https://user-images.githubusercontent.com/111851675/186107359-cddb7376-5dca-48b9-91e2-668762b52e9b.png)
+ 
+ PSD of the Wavelet decomposition of EEG signal
 
 
 ![image](https://user-images.githubusercontent.com/111851675/186107434-2f976ba2-d91c-410e-8d5e-1a12a6c9bb75.png)
 
+Beta ratio of EEG signal
 
 ![image](https://user-images.githubusercontent.com/111851675/186107517-9333d854-19ac-4471-87f5-24c6c05019f5.png)
 
+
+Regression Analysis of BIS and Beta Ratio
 
 ![image](https://user-images.githubusercontent.com/111851675/186107607-844e79f9-bf5b-41ad-8470-3d419d4bf815.png)
 
