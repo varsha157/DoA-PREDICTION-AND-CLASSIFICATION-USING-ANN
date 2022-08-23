@@ -61,6 +61,8 @@ Step:04. Obtain and plot the regression coefficient, error, time series response
 **RESULTS:**
 
 Comparison of raw EEG signal and removal of outliers:
+
+
 ![image](https://user-images.githubusercontent.com/111851675/186107095-5ce7a595-7ba5-401b-aada-248ab0335a4c.png)
 
 
@@ -82,7 +84,6 @@ Comparison of raw EEG signal and removal of outliers:
 ![image](https://user-images.githubusercontent.com/111851675/186107607-844e79f9-bf5b-41ad-8470-3d419d4bf815.png)
 
 
-![image](https://user-images.githubusercontent.com/111851675/186107835-fe6c7b9e-1bb9-4107-b15d-bd42e8337d09.png)
 
 
 ![image](https://user-images.githubusercontent.com/111851675/186107750-7905bf1d-211b-4155-ad1e-991fbe7e75de.png)
